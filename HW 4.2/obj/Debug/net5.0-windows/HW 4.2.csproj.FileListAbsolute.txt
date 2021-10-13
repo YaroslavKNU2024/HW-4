@@ -1,0 +1,23 @@
+C:\Users\yasma\source\repos\HW 4.2\bin\Debug\net5.0-windows\HW 4.2.exe
+C:\Users\yasma\source\repos\HW 4.2\bin\Debug\net5.0-windows\HW 4.2.deps.json
+C:\Users\yasma\source\repos\HW 4.2\bin\Debug\net5.0-windows\HW 4.2.runtimeconfig.json
+C:\Users\yasma\source\repos\HW 4.2\bin\Debug\net5.0-windows\HW 4.2.runtimeconfig.dev.json
+C:\Users\yasma\source\repos\HW 4.2\bin\Debug\net5.0-windows\HW 4.2.dll
+C:\Users\yasma\source\repos\HW 4.2\bin\Debug\net5.0-windows\ref\HW 4.2.dll
+C:\Users\yasma\source\repos\HW 4.2\bin\Debug\net5.0-windows\HW 4.2.pdb
+C:\Users\yasma\source\repos\HW 4.2\obj\Debug\net5.0-windows\HW_4._2.Form1.resources
+C:\Users\yasma\source\repos\HW 4.2\obj\Debug\net5.0-windows\HW 4.2.csproj.GenerateResource.cache
+C:\Users\yasma\source\repos\HW 4.2\obj\Debug\net5.0-windows\HW 4.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasma\source\repos\HW 4.2\obj\Debug\net5.0-windows\HW 4.2.AssemblyInfoInputs.cache
+C:\Users\yasma\source\repos\HW 4.2\obj\Debug\net5.0-windows\HW 4.2.AssemblyInfo.cs
+C:\Users\yasma\source\repos\HW 4.2\obj\Debug\net5.0-windows\HW 4.2.csproj.CoreCompileInputs.cache
+C:\Users\yasma\source\repos\HW 4.2\obj\Debug\net5.0-windows\HW 4.2.dll
+C:\Users\yasma\source\repos\HW 4.2\obj\Debug\net5.0-windows\ref\HW 4.2.dll
+C:\Users\yasma\source\repos\HW 4.2\obj\Debug\net5.0-windows\HW 4.2.pdb
+C:\Users\yasma\source\repos\HW 4.2\obj\Debug\net5.0-windows\HW 4.2.genruntimeconfig.cache
+C:\Users\yasma\source\repos\HW 4.2\obj\Debug\net5.0-windows\HW 4.2.csproj.AssemblyReference.cache
+C:\Users\yasma\source\repos\HW 4.2\obj\Debug\net5.0-windows\HW_4._2.circle.resources
+C:\Users\yasma\source\repos\HW 4.2\obj\Debug\net5.0-windows\HW_4._2.rectangle.resources
+C:\Users\yasma\source\repos\HW 4.2\obj\Debug\net5.0-windows\HW_4._2.rhombus.resources
+C:\Users\yasma\source\repos\HW 4.2\obj\Debug\net5.0-windows\HW_4._2.square.resources
+C:\Users\yasma\source\repos\HW 4.2\obj\Debug\net5.0-windows\HW_4._2.triangle.resources

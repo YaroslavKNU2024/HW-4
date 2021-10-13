@@ -1,0 +1,19 @@
+C:\Users\yasma\source\repos\HW 4.1\obj\Debug\net5.0-windows\HW 4.1.csproj.AssemblyReference.cache
+C:\Users\yasma\source\repos\HW 4.1\obj\Debug\net5.0-windows\HW_4._1.Form1.resources
+C:\Users\yasma\source\repos\HW 4.1\obj\Debug\net5.0-windows\HW 4.1.csproj.GenerateResource.cache
+C:\Users\yasma\source\repos\HW 4.1\obj\Debug\net5.0-windows\HW 4.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasma\source\repos\HW 4.1\obj\Debug\net5.0-windows\HW 4.1.AssemblyInfoInputs.cache
+C:\Users\yasma\source\repos\HW 4.1\obj\Debug\net5.0-windows\HW 4.1.AssemblyInfo.cs
+C:\Users\yasma\source\repos\HW 4.1\obj\Debug\net5.0-windows\HW 4.1.csproj.CoreCompileInputs.cache
+C:\Users\yasma\source\repos\HW 4.1\bin\Debug\net5.0-windows\HW 4.1.exe
+C:\Users\yasma\source\repos\HW 4.1\bin\Debug\net5.0-windows\HW 4.1.deps.json
+C:\Users\yasma\source\repos\HW 4.1\bin\Debug\net5.0-windows\HW 4.1.runtimeconfig.json
+C:\Users\yasma\source\repos\HW 4.1\bin\Debug\net5.0-windows\HW 4.1.runtimeconfig.dev.json
+C:\Users\yasma\source\repos\HW 4.1\bin\Debug\net5.0-windows\HW 4.1.dll
+C:\Users\yasma\source\repos\HW 4.1\bin\Debug\net5.0-windows\ref\HW 4.1.dll
+C:\Users\yasma\source\repos\HW 4.1\bin\Debug\net5.0-windows\HW 4.1.pdb
+C:\Users\yasma\source\repos\HW 4.1\obj\Debug\net5.0-windows\HW 4.1.dll
+C:\Users\yasma\source\repos\HW 4.1\obj\Debug\net5.0-windows\ref\HW 4.1.dll
+C:\Users\yasma\source\repos\HW 4.1\obj\Debug\net5.0-windows\HW 4.1.pdb
+C:\Users\yasma\source\repos\HW 4.1\obj\Debug\net5.0-windows\HW 4.1.genruntimeconfig.cache
+C:\Users\yasma\source\repos\HW 4.1\obj\Debug\net5.0-windows\HW_4._1.Form2.resources
